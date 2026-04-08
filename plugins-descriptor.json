@@ -8,6 +8,13 @@
         "vendor": "bakthava",
         "markerClass": "com.example.jmeter.LLMMetricsVisualizer",
         "versions": {
+            "0.2": {
+                "downloadUrl": "https://github.com/bakthava/LLM-Metrics-Visualizer/releases/download/v0.2/LLM_Metrics_Visualizer-0.2.jar",
+                "libs": {},
+                "depends": [],
+                "javaVersion": "1.8",
+                "remark": "JDK 8 compatible (bytecode version 52)"
+            },
             "0.1": {
                 "downloadUrl": "https://github.com/bakthava/LLM-Metrics-Visualizer/releases/download/v0.1/LLM_Metrics_Visualizer-0.1.jar",
                 "libs": {},
